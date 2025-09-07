@@ -1,0 +1,9 @@
+title: KH2 - Archipelago Enablers [LITE]
+originalAuthor: TopazTK
+description: A set of functions to let Archipelago players do more, but not as much.
+
+assets: 
+- name: dll/EnablersAP-LITE.dll
+  method: copy
+  source:
+    - name: dll/EnablersAP-LITE.dll
